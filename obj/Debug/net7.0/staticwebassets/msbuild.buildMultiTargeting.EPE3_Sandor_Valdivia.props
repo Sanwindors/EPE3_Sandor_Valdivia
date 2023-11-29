@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EPE3_Sandor_Valdivia.props" />
+</Project>
